@@ -4,7 +4,7 @@ echo "\n";
 echo "##########################\n";
 echo "# Exploit Sqli Balitbang #\n";
 echo "# ICWR-TECH              #\n";
-echo "# Coded By Afrizal F.A   #\n";
+echo "#    Mr Horden•999.      #\n";
 echo "##########################\n";
 $url = $argv[1];
 echo "\n[+] Exploiting : $url\n";
